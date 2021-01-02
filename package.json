@@ -13,6 +13,7 @@
     "@material-ui/styles": "4.11.2",
     "@tippyjs/react": "4.2.0",
     "clipboard": "2.0.6",
+    "gh-pages": "^3.1.0",
     "keyframes": "2.3.0",
     "react": "17.0.0",
     "react-color": "2.19.3",
@@ -21,7 +22,8 @@
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "^4.0.1",
-    "webkit": "0.0.0"
+    "webkit": "0.0.0",
+    "yarn": "^1.22.10"
   },
   "devDependencies": {
     "typescript": "3.8.3"
