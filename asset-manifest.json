@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/camborder/static/css/main.d4c00446.chunk.css",
-    "main.js": "/camborder/static/js/main.647697da.chunk.js",
-    "main.js.map": "/camborder/static/js/main.647697da.chunk.js.map",
-    "runtime-main.js": "/camborder/static/js/runtime-main.19c7c5bb.js",
-    "runtime-main.js.map": "/camborder/static/js/runtime-main.19c7c5bb.js.map",
-    "static/js/2.7e65d347.chunk.js": "/camborder/static/js/2.7e65d347.chunk.js",
-    "static/js/2.7e65d347.chunk.js.map": "/camborder/static/js/2.7e65d347.chunk.js.map",
+    "main.js": "/camborder/static/js/main.a6c95d81.chunk.js",
+    "main.js.map": "/camborder/static/js/main.a6c95d81.chunk.js.map",
+    "runtime-main.js": "/camborder/static/js/runtime-main.cec646d4.js",
+    "runtime-main.js.map": "/camborder/static/js/runtime-main.cec646d4.js.map",
+    "static/js/2.e75d3a59.chunk.js": "/camborder/static/js/2.e75d3a59.chunk.js",
+    "static/js/2.e75d3a59.chunk.js.map": "/camborder/static/js/2.e75d3a59.chunk.js.map",
     "index.html": "/camborder/index.html",
     "static/css/main.d4c00446.chunk.css.map": "/camborder/static/css/main.d4c00446.chunk.css.map",
-    "static/js/2.7e65d347.chunk.js.LICENSE.txt": "/camborder/static/js/2.7e65d347.chunk.js.LICENSE.txt"
+    "static/js/2.e75d3a59.chunk.js.LICENSE.txt": "/camborder/static/js/2.e75d3a59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19c7c5bb.js",
-    "static/js/2.7e65d347.chunk.js",
+    "static/js/runtime-main.cec646d4.js",
+    "static/js/2.e75d3a59.chunk.js",
     "static/css/main.d4c00446.chunk.css",
-    "static/js/main.647697da.chunk.js"
+    "static/js/main.a6c95d81.chunk.js"
   ]
 }
