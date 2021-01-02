@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "private": "true",
-  "homepage": "https://frazer-l.github.io/camborder/",
+  "homepage": "https://frazer-l.github.io/camborder",
   "engines": {
     "node": "14.x"
   },
