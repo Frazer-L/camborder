@@ -4,11 +4,11 @@
   "description": "",
   "keywords": [],
   "private": "true",
-  "homepage": "https://frazer-l.github.io/camborder",
+  "homepage": "https://frazer-l.github.io/camborder/",
   "engines": {
     "node": "14.x"
   },
-  "main": "src/index.js",
+  // "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.11.2",
     "@material-ui/styles": "4.11.2",
