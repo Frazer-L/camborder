@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "private": "true",
   "homepage": "https://frazer-l.github.io/camborder/",
   "engines": {
     "node": "14.x"

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/webcam-border-generator/static/css/main.d4c00446.chunk.css",
-    "main.js": "/webcam-border-generator/static/js/main.289a036d.chunk.js",
-    "main.js.map": "/webcam-border-generator/static/js/main.289a036d.chunk.js.map",
-    "runtime-main.js": "/webcam-border-generator/static/js/runtime-main.8f09fe2c.js",
-    "runtime-main.js.map": "/webcam-border-generator/static/js/runtime-main.8f09fe2c.js.map",
-    "static/js/2.eba92c5e.chunk.js": "/webcam-border-generator/static/js/2.eba92c5e.chunk.js",
-    "static/js/2.eba92c5e.chunk.js.map": "/webcam-border-generator/static/js/2.eba92c5e.chunk.js.map",
-    "index.html": "/webcam-border-generator/index.html",
-    "static/css/main.d4c00446.chunk.css.map": "/webcam-border-generator/static/css/main.d4c00446.chunk.css.map",
-    "static/js/2.eba92c5e.chunk.js.LICENSE.txt": "/webcam-border-generator/static/js/2.eba92c5e.chunk.js.LICENSE.txt"
+    "main.css": "/camborder/static/css/main.d4c00446.chunk.css",
+    "main.js": "/camborder/static/js/main.289a036d.chunk.js",
+    "main.js.map": "/camborder/static/js/main.289a036d.chunk.js.map",
+    "runtime-main.js": "/camborder/static/js/runtime-main.19c7c5bb.js",
+    "runtime-main.js.map": "/camborder/static/js/runtime-main.19c7c5bb.js.map",
+    "static/js/2.eba92c5e.chunk.js": "/camborder/static/js/2.eba92c5e.chunk.js",
+    "static/js/2.eba92c5e.chunk.js.map": "/camborder/static/js/2.eba92c5e.chunk.js.map",
+    "index.html": "/camborder/index.html",
+    "static/css/main.d4c00446.chunk.css.map": "/camborder/static/css/main.d4c00446.chunk.css.map",
+    "static/js/2.eba92c5e.chunk.js.LICENSE.txt": "/camborder/static/js/2.eba92c5e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f09fe2c.js",
+    "static/js/runtime-main.19c7c5bb.js",
     "static/js/2.eba92c5e.chunk.js",
     "static/css/main.d4c00446.chunk.css",
     "static/js/main.289a036d.chunk.js"
