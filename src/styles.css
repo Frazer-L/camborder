@@ -97,3 +97,38 @@ header h1 {
 .borderDiv {
   margin: auto auto 20px;
 }
+
+
+
+div .howtopar {
+  margin: 20px auto 0;
+  padding: 0 30%;
+  text-align: center;
+}
+
+#navbarTitle{
+  font-size: 1.6rem;
+  color: white;
+}
+#navbarTitle:hover{
+  font-size: 1.6rem;
+  color: transparent;
+}
+
+.container:hover{
+    background-image: linear-gradient(45deg, #ee7752,
+    #e73c7e,
+    #23a6d5, 
+    #23d5ab);
+    padding:0;
+    -webkit-background-clip: text;  
+  color: transparent;  
+}
+
+#navbarHowTo{
+  font-weight: 600;
+}
+#navbarHowTo:hover{
+  color: white;
+}
+

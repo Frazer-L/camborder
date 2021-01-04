@@ -32,7 +32,7 @@ export default function Home() {
       <Header />
       <div className="centered">
         <div className="sliderDiv">
-          <h6>Animation time (seconds):</h6>
+          <h6>{`Animation time (${time}):`}</h6>
           <TimeSlider onChange={setTime} />
         </div>
         <ColorPicker color={c1} onChange={setC1} title="COLOR 1" />

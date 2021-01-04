@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "private": "true",
-  "homepage": "https://frazer-l.github.io/camborder/",
+  "homepage": "http://camborder.com",
   "engines": {
     "node": "14.x"
   },
@@ -19,6 +19,7 @@
     "react-color": "2.19.3",
     "react-copy-to-clipboard": "5.0.2",
     "react-dom": "17.0.1",
+    "react-ga": "^3.3.0",
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "^4.0.1",
