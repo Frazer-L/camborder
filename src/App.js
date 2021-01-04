@@ -15,16 +15,14 @@ import HowToPage from './HowToPage'
 export default function App() {
 
   useEffect(()=> {
-    ReactGA.initialize("G-34MWP60V9L")
+    ReactGA.initialize("UA-186475779-1")
     ReactGA.pageview('/')
   },[])
-
-
 
   return (
     <Router>
       <Switch>
-      <Route path="/" exact>
+        <Route path="/" exact>
           <Home />
         </Route>
         
