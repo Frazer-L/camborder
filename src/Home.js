@@ -53,8 +53,8 @@ export default function Home() {
       />
 
       
-      <p className="grey note"><strong>Tip:</strong> You can adjust the <strong>size</strong>, <strong>aspect-ratio</strong> and <strong>line thickness</strong> by dragging to resize the border inside OBS.</p> 
-      <p className="grey note">(Hold Alt while dragging to crop the edges to make the border width smaller!)</p>
+      <p className="grey note"><strong>Tip:</strong> You can adjust the <strong>size</strong>, <strong>aspect-ratio</strong> and <strong>line-thickness</strong> by dragging to resize the border inside OBS.</p> 
+      <p className="grey note">(Hold Alt while dragging to crop the edges to make the line-thickness thinner!)</p>
 
 
       <div className="centered copytoclipboard">
