@@ -4,7 +4,7 @@ import Tippy from "@tippyjs/react";
 
 
 export default function ColorPicker(props){
-  return(<div>
+  return(<div className="colorpickerDiv">
           <Tippy
             interactive={true}
             placement={'bottom'}

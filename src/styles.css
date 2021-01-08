@@ -132,3 +132,15 @@ div .howtopar {
   color: white;
 }
 
+.note{
+  font-size: small;
+  margin: 0;
+}
+
+.ref-button{
+  margin: 10px auto;
+}
+
+.sliderDiv{
+  margin: 10px auto;
+}

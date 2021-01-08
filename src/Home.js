@@ -41,7 +41,7 @@ export default function Home() {
         <ColorPicker color={c4} onChange={setC4} title="COLOR 4" />
       </div>
 
-      <p className="grey preview">preview:</p>
+<p className="grey preview">preview:</p>
       <WebCamBorder
         color1={c1}
         color2={c2}
@@ -51,6 +51,12 @@ export default function Home() {
         height="300px"
         time={time}
       />
+
+      
+      <p className="grey note"><strong>Tip:</strong> You can adjust the <strong>size</strong>, <strong>aspect-ratio</strong> and <strong>line thickness</strong> by dragging to resize the border inside OBS.</p> 
+      <p className="grey note">(Hold Alt while dragging to crop the edges to make the border width smaller!)</p>
+
+
       <div className="centered copytoclipboard">
         <CopyToClipboard text={webcamBorderURL} onCopy={() => setCopied(true)}>
           <p>{webcamBorderURL}</p>

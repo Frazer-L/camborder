@@ -33,7 +33,7 @@ export default function HowToPage(){
                     <br/>
                 </p>
                 <p>
-                    Tip: <strong>You can adjust the size, aspect-ratio and border width</strong> by dragging to resize the border inside OBS. (Hold Alt to crop the edges to make the border width smaller!)
+                    Tip: <strong>You can adjust the size, aspect-ratio and border width</strong> by dragging to resize the border inside OBS. (Hold Alt while dragging to crop the edges to make the border width smaller!)
                 </p>
             </div>
         </div>
