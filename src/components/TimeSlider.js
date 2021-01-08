@@ -5,7 +5,7 @@ import { Slider } from "@material-ui/core";
 export default function TimeSlider(props){
 
   return( 
-    <div className="sliderDiv">
+    <div>
     <Slider
             defaultValue={10}
             getAriaValueText={value => `${value}s`}
